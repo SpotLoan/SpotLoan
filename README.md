@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 
 I am currently in my Second year second semester of Cegep Heritage College Computer Science Program:
 My goal to reach by the end of the semester:
-      * Properly learn PHP and C#
-      * Eat a little healthier!
+- Properly learn PHP and C#
+- Eat a little healthier!
 
 My goal to reach by the time I graduate:
-      * Land a job in something that I enjoy (at the moment, that is frontend development)
-      * Lose 10 pounds and keep it at a consistent weight!
-      * Create a project that I am fully proud of that is not apart of an assignment!
+- Land a job in something that I enjoy (at the moment, that is frontend development)
+- Lose 10 pounds and keep it at a consistent weight!
+- Create a project that I am fully proud of that is not apart of an assignment!
